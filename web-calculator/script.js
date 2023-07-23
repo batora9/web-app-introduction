@@ -32,7 +32,7 @@ function handleSymbol(symbol){
             if(buffer.length === 1){
                 buffer = '0';
             }else{
-                buffer = buffer.subString(0,buffer.length - 1)
+                buffer = buffer.substring(0,buffer.length - 1)
             }
             break;
         case '+':
@@ -49,7 +49,7 @@ function handleMath(symbol){
         return;
     }
 
-    const intBuffer = pareseInt(buffer);
+    const intBuffer = parseInt(buffer);
     
     if(runningTotal === 0){
         runningTotal = intBuffer;
@@ -83,7 +83,7 @@ function handleNumber(numberString){
 function init(){
     document.querySelector('.calc-buttons').
     addEventListener('click',function(event){
-        buttonClick(event.targent.innerText);
+        buttonClick(event.target.innerText);
     })
 }
 
