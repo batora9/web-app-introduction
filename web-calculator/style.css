@@ -41,7 +41,7 @@ body{
     overflow: auto;
     padding: 20px;
     text-align: right;
-    width: 326px;
+    /*width: 326px;*/
 }
 
 .calc-button-row{
