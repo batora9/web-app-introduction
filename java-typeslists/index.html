@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <link rel="stylesheet" href="style.css">
+        <title>type属性のテスト</title>
+    </head>
+    <body>
+        <div class="container">
+            <h2>タイトル</h2>
+            <div class="field">
+                <p>名前：<input type="text"></p>
+                <p>性別：<input type="radio" name="sex" value="男性">男性　<input type="radio" name="sex" value="女性">女性　<input type="radio" name="sex" value="カスタム">カスタム</p>
+                <p>電話番号：<input type="tel" pattern="[0-9]{3}-[0-9]{4}-[0-9]{4}" placeholder="090-1234-5678"></p>
+            </div>
+        </div>
+        <div class="submit">
+            <input type="submit" value="送信"> 
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
