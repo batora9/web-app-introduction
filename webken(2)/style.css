@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  color: white;
+  background-color: gray;
+  width: 100%;
+}
+
+.main {
+  display: flex;
+}
+
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.box3 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+.footer {
+  color: white;
+  background-color: gray;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
