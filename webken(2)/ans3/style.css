@@ -1,0 +1,49 @@
+:root {
+  --top-bottom-color: #AFF4C6;
+}
+
+* {
+  margin: 0;
+}
+
+.header {
+  background-color: var(--top-bottom-color);
+  width: 100%;
+}
+
+.main {
+  padding: 20px;
+}
+
+.hero {
+  height: 200px;
+  margin-bottom: 20px;
+  background-color: #B3B3B3;
+  padding: 8px;
+}
+
+.article {
+  display: flex;
+  width: 100%;
+}
+
+.contents {
+  width: 70%;
+  height: 70vh;
+  background-color: #FFC7C2;
+  padding: 8px;
+}
+
+.sidebar {
+  width: 30%;
+  height: 70vh;
+  background-color: #BDE3FF;
+  margin-left: 20px;
+  padding: 8px;
+}
+
+.footer {
+  background-color: var(--top-bottom-color);
+  text-align: center;
+  width: 100%;
+}

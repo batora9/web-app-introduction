@@ -1,35 +1,38 @@
-* {
-  margin: 0;
-}
-
 .header {
   background-color: #AFF4C6;
   width: 100%;
 }
 
 .main {
+  padding: 20px;
+}
+
+.hero {
+  background-color: #B3B3B3;
+  padding: 8px;
+}
+
+.article {
   display: flex;
-  justify-content: center;
+  width: 100%;
 }
 
 .contents {
-  width: 700px;
+  width: 70%;
   height: 70vh;
-  margin: 20px;
   background-color: #FFC7C2;
+  padding: 8px;
 }
 
 .sidebar {
-  width: 300px;
+  width: 30%;
   height: 70vh;
-  margin: 20px;
   background-color: #BDE3FF;
+  padding: 8px;
 }
 
 .footer {
   background-color: #AFF4C6;
   text-align: center;
   width: 100%;
-  position: absolute;
-  bottom: 0;
 }
