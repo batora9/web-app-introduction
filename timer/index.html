@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>タイマー</title>
+  <script>
+    var time = 0;
+    var timer;
+    function start() {
+      timer = setInterval(function() {
+        time++;
+        document.getElementById("time").textContent = time;
+      }, 1000);
+    }
+    function stop() {
+      clearInterval(timer);
+    }
+  </script>
+</head>
+<body>
+  <h1>タイマー</h1>
+  <button onclick="start()">スタート</button>
+  <span id="time">0</span>
+  <button onclick="stop()">ストップ</button>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>カウント</title>
+  <script>
+    var count = 0;
+    function increment() {
+      count++;
+      document.getElementById("count").textContent = count;
+    }
+    function decrement() {
+      count--;
+      document.getElementById("count").textContent = count;
+    }
+  </script>
+</head>
+<body>
+  <h1>カウント</h1>
+  <button onclick="increment()">+</button>
+  <span id="count">0</span>
+  <button onclick="decrement()">-</button>
+</body>
+</html>
