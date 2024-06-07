@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>JSX形式に慣れる1</title>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const btn = document.getElementById('btn');
+                const output = document.getElementById('output');
+                btn.addEventListener('click', function() {
+                    output.textContent = 'Hello, world!';
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div id="output">Sleeping...</div>
+        <button id="btn">Click me!</button>
+    </body>
+</html>
