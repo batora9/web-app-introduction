@@ -1,0 +1,3 @@
+# ディレクトリに含まれるすべてのnode_modulesディレクトリを無視する
+
+**/node_modules

@@ -1,0 +1,7 @@
+{
+    "name": "todo-with-database",
+    "type": "commonjs",
+    "dependencies": {
+        "sqlite3": "^5.1.7"
+    }
+}
