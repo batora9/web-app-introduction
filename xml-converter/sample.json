@@ -1,0 +1,2994 @@
+{
+  "result": {
+    "success": [
+      "true"
+    ],
+    "err_msg_no": [
+      ""
+    ],
+    "err_msg": [
+      ""
+    ],
+    "data": [
+      {
+        "book": [
+          {
+            "$": {
+              "limitTime": "2400",
+              "mission": "0",
+              "mode": "book",
+              "no": "2685",
+              "shuffleQuestions": "false"
+            },
+            "booktitle": [
+              ""
+            ],
+            "explanation": [
+              ""
+            ],
+            "pass_comment": [
+              ""
+            ],
+            "fail_comment": [
+              ""
+            ],
+            "bookcover": [
+              ""
+            ],
+            "questions": [
+              {
+                "combinationQuestion": [
+                  {
+                    "$": {
+                      "no": "5761",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-1 (Listening) "
+                    ],
+                    "direction": [
+                      "Listening Section (1-15)<br><br>Part A (1-8)<br><br>Directions: In part A , you will hear short conversations between two people. The conversations will not be repeated. After you hear a conversation, read the question and the four possible answers on the screen, and choose the best answer. Then, on the screen, click the button of the answer you have chosen."
+                    ],
+                    "en_script": [
+                      "Woman:  Excuse me. Your shopping cart is blocking mine. Would you mind?<br/>Man:  Oh, I'm so sorry.<br/>"
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/01.mp3?rand=0.0930173491411"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "12718",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What will the man probably do next?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "2"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Do nothing at all.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Move out of the way.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Continue shopping.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Talk to the woman.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5811",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-2 (Listening) "
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "en_script": [
+                      "Man:  You never learn, do you? You were up all night studying for the exam, weren't you?<br/>Woman:  Yeah and it was a stupid thing to do. I was so tired that I couldn't think straight during the exam.<br/>"
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/02.mp3?rand=0.583594721758"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "12720",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What does the woman mean?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "She thinks her studying all night paid off.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "She overslept and missed her exam.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "She thinks her friend is stupid.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "She doesn't think she did well on the exam.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5812",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-3 (Listening)"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "en_script": [
+                      "Woman:  Wow, that's enough to feed a small army!<br/>Man:  Give me a break. A growing boy needs his nourishment."
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/03.mp3?rand=0.523051592591"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "13162",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What does the man mean?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "2"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "He has special needs for nourishment.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "He doesn't think he's eating too much.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "He is more hungry than usual.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "The woman should take a break with him.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5813",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-4 (Listening)"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "en_script": [
+                      "Man:  That was fun. We should play more often.<br/>Woman:  You're just saying that because I let you win this time."
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/04.mp3?rand=0.328100874321"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "13164",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What is implied about the tennis match?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "The man won.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "The woman won.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "The man really doesn't want to play tennis with the woman anymore.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "The woman doesn't really want to play tennis with the man anymore.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5814",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-5 (Listening)"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "en_script": [
+                      "Man:  It's such a beautiful day. How about playing hooky and taking a long drive.<br/>Woman:  Have you forgotten that we're reviewing for the final today?"
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/05.mp3?rand=0.758539756085"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "13166",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What will the woman probably do?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Skip class.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Discuss whether to skip class.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Go for a ride.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Go to class.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5816",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-6 (Listening)"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "en_script": [
+                      "Man:  Did you read about Tom getting suspended from the basketball team for having<br/>bad grades?<br/>Woman:  That's such a shame. So many people really looked up to him.<br/>"
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/06.mp3?rand=0.832335898826"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "13168",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What does the woman mean?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "2"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Tom is someone who is generally admired for his behavior.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Tom has disappointed people with his behavior.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "She admires Tom for his behavior.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Tom's suspension doesn't affect the way people feel about him.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5818",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-7 (Listening)"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "en_script": [
+                      "Man:  What have you decided to call your new pet?<br/>Woman:  I haven't come up with anything yet. Got any ideas?"
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/07.mp3?rand=0.530036558586"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "13170",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What does the woman say about the pet?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "The pet does not come when called.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "The pet doesn't know her name yet.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "She only recently bought the pet.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "She hasn't decided on a name for the pet.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5820",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-8 (Listening)"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "en_script": [
+                      "Man:  Our library has the most extensive collection of sociology books in the country.<br/>Woman:  Not to mention journals. "
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/08.mp3?rand=0.882569975053"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "13172",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What does the woman mean?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "The library has many sociology books and journals.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "The library has more sociology books than journals.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "The library has a large collection of sociology journals.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "The library has a large collection of psychology journals.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5823",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-9-11 (Listening)"
+                    ],
+                    "direction": [
+                      "Listening Section, Part B (9-11)<br><br>Directions:  In this part of the test, you will hear a longer conversation. After the conversation you will hear several questions. The conversation will not be repeated.<br><br>After you hear the conversation, read the question and the four possible answers on the screen, and choose the best answer. Then, on the screen, click the button that corresponds to the letter of the answer you have chosen."
+                    ],
+                    "en_script": [
+                      "Man:  Beth!  Can I give you a hand with those?<br/><br/>Woman:  Oh, thanks Tom.  Could you take this one?  It's not heavy ― just awkward to carry.<br/><br/>Man:  It looks like you're planning on feeding an army.  I didn't think you were big on cooking.<br/><br/>Woman:  You're right, I'm not usually.  But I invited the other members of that English Lit seminar for a post-exam celebration tonight.<br/><br/>Man:   So, do you think you will be wanting to celebrate after the exam?<br/><br/>Woman:  Well, I'm not sure how we'll all do, but we've had such a great time during the semester, I hated to think the last we'd see of each other would be bent over and grumbling about an exam.<br/><br/>Man:  They must have been a great group.<br/><br/>Woman:  They certainly were… I mean are.  We've had some great discussions over the semester.  I feel that I've learned as much from them as I have from the teacher."
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/09-11.mp3?rand=0.476481293693"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "13174",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What is Beth planning to do tonight?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Go out to eat after the exam.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Go to an English Lit seminar.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Make dinner for members of the seminar.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Complain about the exam with members of the seminar.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "13176",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Why has Beth decided to cook for her classmate?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "She wants to celebrate with her classmates.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "She is not getting along with her classmates.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "She wants to get to know her classmates.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "She wants to study with her classmates.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "13178",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Why is Beth appreciative of her classmates?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "2"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "They helped her study for the exam.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "She has learned a lot from them.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "They have had fun partying together.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "She thinks they are very polite.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5827",
+                      "type": "listeningComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-12-15 (Listening)"
+                    ],
+                    "direction": [
+                      "Listening Section, Part C (12-15)<br><br>Directions: In this part of the test, you will hear a talk. The talk will not be repeated.<br><br>After you hear the talk, read the question and the four possible answers on the screen, and choose the best answer. Then, on the screen, click the button that corresponds to the letter of the answer you have chosen."
+                    ],
+                    "en_script": [
+                      "These Greenfield Elementary students are feeding slices of apple to Nick and Noel, a pair of reindeer living in Illinois. These graceful brown-and-white animals live with Stan and Amy Sanders at the Sanders Christmas Tree Farm in Greenfield County.<br/><br/>The reindeer were brought to the farm this September from their native Alaska. The Sanders' eight-year-old daughter Emily read a book about reindeer, and begged her parents to get one, Mr. Sanders explains. She argued that the traditional Christmas animals would attract more business to the farm in December. At first, the Sanders did not believe reindeer could live through the hot Illinois summers. Then they met a man in Indiana who raises the deer. He explained that they do fine so long as they have plenty of shade and water. So the Sanders gave in, and ordered a pair from a breeder in Alaska.<br/><br/>Now that December is here, little Emily's business instincts are proving to be sound. Families from all over the state are bringing their children to see the reindeer, and while they're at the farm, many go ahead and purchase their Christmas trees."
+                    ],
+                    "sound": [
+                      "/as/player_data/cp_test/toefl/vol01/12-15.mp3?rand=0.283106770504"
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "13180",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What is the story mainly about?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "American Christmas traditions.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "An elementary school field trip.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "A pair of reindeer living on a farm.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "The business of selling Christmas trees.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "13182",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Who first had the idea to keep reindeer on the Sanders' farm?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "A man in Indiana.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Mr. and Mrs. Sanders.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "One of their customers.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "The Sanders' little daughter.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "13184",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Why did the Sanders hesitate at first to have reindeer?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "They did not have a good place to keep the animals.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "They thought the reindeer might destroy their trees.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "They were concerned that the animals would suffer from the heat.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "They feared that having strange animals on their farm would hurt their business.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "13186",
+                          "point": "2",
+                          "skillType": "2",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "How have the animals helped the Sanders?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "2"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "They produce milk.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "They attract customers.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "They do work on the farm.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "They keep away pests that harm the trees.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "5841",
+                      "type": "readingComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-1 (Reading)"
+                    ],
+                    "direction": [
+                      "Reading Section (31-50)<br><br>Directions: In the Reading Comprehension section you will read two passages. Each one is followed by a number of questions about it. You are to choose the one best answer to each question. Then, on the screen, click the answer you have chosen.<br><br>Answer all questions about the information in a passage on the basis of what is stated or implied in that passage."
+                    ],
+                    "passage": [
+                      "　Traditionally, coffee houses in the United States have been of two varieties: the aesthetically oriented coffee shops <b>associated</b> with college campuses and urban art communities, and the classic American diner linked with America's working class and the culture of mobility based on ownership of private automobiles and a vast network of interstate highways.  Although a third type of coffee shop has recently emerged in American life ─ the coffee house franchise catering to middle class consumers ─ many in the United States would argue that <b>genuine</b> American culture is best encountered in the diners that can still be found along highways and in various cities throughout the country.  There is an authentic feel to diners which appeals to many.<br/><br/>　Many roadside diners were built to accommodate the needs of truck drivers and motorists filling America's highways as the United States began in the early and mid-twentieth century to shift from a reliance on railroads to a dependence on trucking fleets and private automobiles to move both the nation's commerce and its citizens.  Unlike earlier migrations in the 1930's, which were forced by economic depression and agricultural disasters in the middle and western states, the late 1940's and 1950's saw the development of a culture of mobility that embraced travel both as an engine of national prosperity and as a means of self-discovery.<br/><br/>　Because they drove long hours every day of the week, truck drivers did not maintain the predictable schedules followed by most American businesses and by middle class American families.  Truckers needed restaurants where <b>they</b> could purchase a meal at any hour of the day or night, and where they could stop for coffee in order to revive enough to drive several hundred more miles.  Roadside diners catered to these needs.<br/><br/>　Such diners also filled the needs of travelers attracted by the romance of the road celebrated in the 1950's and 1960's by writers such as Jack Kerouac and by television programs such as Route 66, a show about life along America's first transcontinental highway.  Movies such as The Wild One also depicted America's desire for speed and freedom.  The men and women pursuing private dreams along the interstate system which was helping to bind American regions more closely together into a national culture frequently found themselves sitting in a booth or at a counter in the early hours of the morning with red-eyed truckers, ordering coffee and a slice of pie.<br/><br/>　America's love of mobility has become an integral part of its national character, and it is still celebrated in books such as Blue Highways.  And anyone wanting to witness Americans pursuing the dream of other places either as a job or as a private quest for can still find an all-night diner where the patrons are more interesting than the menu."
+                    ],
+                    "en_script_sentence": [
+                      ""
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "12554",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "With which statement would the author most likely agree?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Genuine American culture is best encountered in  roadside diners.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Roadside diners no longer exist.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Jack Kerouac often wrote about the beat poetry recited roadside diners.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "The only weakness or roadside diners is that they are closed at night.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12556",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Which of the following is closest in meaning to the word, \"genuine\" in paragraph 1?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "extraordinary",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "precious",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "artistic",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "authentic",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12559",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Who are you most likely to find in a roadside diner?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Artists",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Intellectuals",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Truck Drivers",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Farmers",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12561",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What is one reason for the migration of people west in the early 1930s?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "2"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "No obvious reason.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Economic depression",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Love of diners",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Anxieties over the climatic changes",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12563",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Who is Jack Kerouac?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Truck driver",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Owner of Diner",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Writer",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Actor",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12565",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "According to the author, what important part of American culture is connected to the popularity of diners?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Appreciation of good coffee",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Respect for democracy",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Enjoyment of intellectual discussion",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Love of mobility",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12567",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Which of the following is the closest in meaning to the word, \"associated\" in paragraph 1?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "separated",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "modified",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "altered",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "linked",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12569",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Which of the following does the word \"they\" in paragraph 3 refer to?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "truckers",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "restaurants",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "American families",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "most American businesses",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12571",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "According to paragraph 2, what mode of transportation was the success of diners NOT related to?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Trucks",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Cars",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Buses",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Railroads",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12573",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What type of coffee house has recently emerged?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Roadside diners",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Aesthetically oriented coffee houses",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Franchises",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Performance coffee houses",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "7034",
+                      "type": "readingComprehension"
+                    },
+                    "title": [
+                      "Test Bank TOEFL mini Vol.1-2 (Reading)"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "passage": [
+                      "　When Columbus landed on the shores of the country now called Venezuela in the late 15th century, some historians estimate that the Native American population of North America stood at about five million.  By 1910, there were fewer than 200,000 \"Indians\" in North America. Formerly proud tribes such as the Iroquois, the Apache, and the Sioux have all but disappeared. Although the Native American population has increased approximately ten-fold, to approximately two million today, the story of Native America's encounter with white America has been filled with missed opportunities, betrayal, and tragic heroism.  Nowhere is this more evident than in the story of the great Algonquian chief, Powhatan.<br/><br/>　On May 13, 1607, the first permanent English colony in North America ─ Jamestown, Virginia ─ was settled by some 100 colonists on the left bank of what was then called the \"River of Powhatan.\"  At this same time the Algonquians, the dominant Native American tribe in the area, was led by an individual called Wahunsonacock, who was later named Powhatan after his village. Wahunsonacock/Powhatan was known for his wisdom and strength and succeeded in uniting many tribes in his region.  The Algonquians under Powhatan were united in a confederacy consisting of nearly two-hundred villages stretching across the entire English seaboard of the United States.  As a chief, Powhatan first sought peace with the European colonists.  But he soon found himself drawn into a series of conflicts with an enemy who grew ever-stronger as Powhatan's people slowly lost their grip on their land and their way of life. <br/><br/>　The Jamestown colonists initially found the New World unbearably harsh.  They lacked both the crops and the knowledge necessary to survive the bitter winter climate.  In 1608 Captain John Smith traveled with a group of colonists to meet with Powhatan, who offered to exchange corn for weapons.  Smith, distrustful of Powhatan's motives, refused the trade.  Powhatan and his people eventually provided the starving colonists with food nonetheless, teaching them how to raise \"Indian corn\" ─ a grain accepted only with reluctance by the Europeans ─ and also teaching them how to construct wigwams.  Even with such assistance, however, nearly half of Jamestown's 900 inhabitants <b>perished</b> during their first winter.<br/><br/>　More colonists came to Jamestown to replace those who had died, and they came with instructions to earn a profit for the British stockholders who were financing the establishment of the Jamestown colony.  With the need to produce quick earnings in mind, the colonists attacked the Powhatans, occupied their fields instead of clearing new fields of their own, and attempted to press some of the captured Native Americans into service as slaves.  The Powhatans counter-attacked in return, and relations between the two groups deteriorated.  Matters were worsened when, in an attempt to grow tobacco, the colonists seized additional Powhatan lands and, once again, the Native Americans counter-attacked, killing a number of the Europeans.<br/><br/>　In order to halt the Native American counter-attacks, the colonists took Chief Powhatan's daughter, Pocahontas, hostage.  Powhatan later learned that his beloved daughter had converted to Christianity and married a planter named John Rolfe, eventually sailing to England, where she died of smallpox.  Powhatan himself died a disillusioned man, feeling himself betrayed by the people he had helped to save."
+                    ],
+                    "en_script_sentence": [
+                      ""
+                    ],
+                    "question": [
+                      {
+                        "$": {
+                          "no": "12576",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What is the main topic of the passage?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "History of Jamestown",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "History of Native American uprisings",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "History of the Algonquian",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "History of Powhatan and American Colonists",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12578",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Which Native American tribe was dominant in Virginia during the 17th century?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Algonquian",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Iroquois",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Apache",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Sioux",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12580",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "How many colonists were part of the Jamestown settlement?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Less than 1,000",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "More than 5,000",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Approximately 5 million",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Approximately 2 million",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12582",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "According to the author, what were Powhatan's first actions towards the colonists?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "He invited them to tribal celebrations.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "He refused their attempts to befriend his tribe.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "He offered to trade corn for weapons.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "He led on attack on Jamestown.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12584",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "What was the fate of Powhatan's daughter?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "She was killed by the colonists.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "She became a great lady in England.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "She died of smallpox.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "She was captured as a slave by the colonists.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12586",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "According to the author, what did Powhatan feel towards the Americans at the end of his life?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "4"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "Curiosity",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "Respect and admiration",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "Happiness",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "Cynicism and regret",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12588",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "In paragraph 3, the word \"perished\" is closest in meaning to"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "died",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "flourished",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "faded",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "persevered",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12590",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "It can be inferred that the British believed that corn"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "3"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "would be delicious",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "would be very exotic",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "would not be good to eat",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "would be poisoned",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12592",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "According to the passage, why was Pocahontas taken hostage?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "1"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "She could be used to stop the counter-attacks of the Indians.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "She wanted to marry John Smith.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "She wanted to go to England.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "She represented a major threat to the colonists.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "no": "12594",
+                          "point": "2",
+                          "skillType": "1",
+                          "type": "multipleChoice"
+                        },
+                        "title": [
+                          "Q & A Multiple Choice"
+                        ],
+                        "direction": [
+                          ""
+                        ],
+                        "questionText": [
+                          "Why did the colonists attack the Powhatans?"
+                        ],
+                        "description": [
+                          ""
+                        ],
+                        "answers": [
+                          {
+                            "answer": [
+                              "2"
+                            ]
+                          }
+                        ],
+                        "choices": [
+                          {
+                            "$": {
+                              "shuffleChoices": "true"
+                            },
+                            "choice": [
+                              {
+                                "_": "In retaliation for the theft of food by the Indians.",
+                                "$": {
+                                  "no": "1"
+                                }
+                              },
+                              {
+                                "_": "In order to take over the Indians' land that had already been cleared.",
+                                "$": {
+                                  "no": "2"
+                                }
+                              },
+                              {
+                                "_": "In order to convert the Powhatans to Christianity.",
+                                "$": {
+                                  "no": "3"
+                                }
+                              },
+                              {
+                                "_": "For fear that the Powhatans would attack them.",
+                                "$": {
+                                  "no": "4"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "question": [
+                  {
+                    "$": {
+                      "no": "13825",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "multipleChoice"
+                    },
+                    "title": [
+                      "Q & A Multiple Choice"
+                    ],
+                    "direction": [
+                      "Grammar Section (16-30)<br>Structure (16-21)<br><br>Directions: Questions 16-21 are incomplete sentences. Beneath each sentence you will see four words or phrases. Choose the one word or phrase that best completes the sentence. Then, on the screen, click the answer you have chosen."
+                    ],
+                    "questionText": [
+                      "Physicists in the 1950s had trouble distinguishing (　　16　　) muons and mu-mesons."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "4"
+                        ]
+                      }
+                    ],
+                    "choices": [
+                      {
+                        "$": {
+                          "shuffleChoices": "true"
+                        },
+                        "choice": [
+                          {
+                            "_": "to",
+                            "$": {
+                              "no": "1"
+                            }
+                          },
+                          {
+                            "_": "from",
+                            "$": {
+                              "no": "2"
+                            }
+                          },
+                          {
+                            "_": "onto",
+                            "$": {
+                              "no": "3"
+                            }
+                          },
+                          {
+                            "_": "between",
+                            "$": {
+                              "no": "4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13826",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "multipleChoice"
+                    },
+                    "title": [
+                      "Q & A Multiple Choice"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "Pickpockets tend to work in crowded public areas (　　17　　) operate with anonymity and use the hustle and bustle to their advantage."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "2"
+                        ]
+                      }
+                    ],
+                    "choices": [
+                      {
+                        "$": {
+                          "shuffleChoices": "true"
+                        },
+                        "choice": [
+                          {
+                            "_": "can where they",
+                            "$": {
+                              "no": "1"
+                            }
+                          },
+                          {
+                            "_": "where they can",
+                            "$": {
+                              "no": "2"
+                            }
+                          },
+                          {
+                            "_": "where can they",
+                            "$": {
+                              "no": "3"
+                            }
+                          },
+                          {
+                            "_": "where can",
+                            "$": {
+                              "no": "4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13827",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "multipleChoice"
+                    },
+                    "title": [
+                      "Q & A Multiple Choice"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "(　　18　　) election to the Presidency in 1992 after defeating incumbent George Bush."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "1"
+                        ]
+                      }
+                    ],
+                    "choices": [
+                      {
+                        "$": {
+                          "shuffleChoices": "true"
+                        },
+                        "choice": [
+                          {
+                            "_": "William Jefferson Clinton won",
+                            "$": {
+                              "no": "1"
+                            }
+                          },
+                          {
+                            "_": "When William Jefferson Clinton won",
+                            "$": {
+                              "no": "2"
+                            }
+                          },
+                          {
+                            "_": "With William Jefferson Clinton's winning",
+                            "$": {
+                              "no": "3"
+                            }
+                          },
+                          {
+                            "_": "William Jefferson Clinton's winning",
+                            "$": {
+                              "no": "4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13828",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "multipleChoice"
+                    },
+                    "title": [
+                      "Q & A Multiple Choice"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "In 1840, (　　19　　) Edgar Allan Poe wrote Murders in the Rue Morgue, the world's first mystery novel, which later influenced such mystery writers as Sherlock Holmes' Sir Arthur Conan Doyle."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "4"
+                        ]
+                      }
+                    ],
+                    "choices": [
+                      {
+                        "$": {
+                          "shuffleChoices": "true"
+                        },
+                        "choice": [
+                          {
+                            "_": "of thirty-one years old",
+                            "$": {
+                              "no": "1"
+                            }
+                          },
+                          {
+                            "_": "he was thirty-one years",
+                            "$": {
+                              "no": "2"
+                            }
+                          },
+                          {
+                            "_": "when the age thirty-one",
+                            "$": {
+                              "no": "3"
+                            }
+                          },
+                          {
+                            "_": "at the age of thirty-one",
+                            "$": {
+                              "no": "4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13829",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "multipleChoice"
+                    },
+                    "title": [
+                      "Q & A Multiple Choice"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "Until the discovery of anaerobic microbes around thermal pools and under sea vents, it was a widely held belief (　　20　　) oxygen must be present for life to exist."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "4"
+                        ]
+                      }
+                    ],
+                    "choices": [
+                      {
+                        "$": {
+                          "shuffleChoices": "true"
+                        },
+                        "choice": [
+                          {
+                            "_": "where",
+                            "$": {
+                              "no": "1"
+                            }
+                          },
+                          {
+                            "_": "until",
+                            "$": {
+                              "no": "2"
+                            }
+                          },
+                          {
+                            "_": "while",
+                            "$": {
+                              "no": "3"
+                            }
+                          },
+                          {
+                            "_": "that",
+                            "$": {
+                              "no": "4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13830",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "multipleChoice"
+                    },
+                    "title": [
+                      "Q & A Multiple Choice"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "Conversations between speakers of Hausa are characterized by (　　21　　) of ritual greetings, tonal inflections, and vivid idioms."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "1"
+                        ]
+                      }
+                    ],
+                    "choices": [
+                      {
+                        "$": {
+                          "shuffleChoices": "true"
+                        },
+                        "choice": [
+                          {
+                            "_": "a great number",
+                            "$": {
+                              "no": "1"
+                            }
+                          },
+                          {
+                            "_": "a great much",
+                            "$": {
+                              "no": "2"
+                            }
+                          },
+                          {
+                            "_": "many greater",
+                            "$": {
+                              "no": "3"
+                            }
+                          },
+                          {
+                            "_": "much",
+                            "$": {
+                              "no": "4"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13839",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      "Grammar Section, Written Expression(22-30)<br><br>Directions: In questions 22-30, each sentence has four underlined words or phrases. The four underlined parts of the sentence are highlighted in blue color. Identify the one underlined word or phrase that must be changed in order for the sentence to be correct. Then, on the screen, click the answer you have chosen."
+                    ],
+                    "questionText": [
+                      "Frank Sinatra is chiefly [remembered] for \"My Way,\" [one] of the most [popular] songs ever [*sang*]."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "4"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13855",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "A perfumer [*blends of hundreds*] of [natural oils] and [chemical compounds] in order [to create] a marketable perfume."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "1"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13870",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "Six years [before] [*novel*] Garrison Keillor completed his first [work] about his Minnesota hometown, he [moved to] the metropolitan capital."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "2"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13894",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "Ground zero is defined as the point [at, above, or below] which an explosion occurs [but not] the affected area [*where*] [surrounds it]."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "3"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13895",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "[*Gain*] weight is the wife's [principal] method of indicating [her husband's] [status] in some African cultures."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "1"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13896",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "Silicon, [*considerably*] [a] common element, [laid] the [foundation] of the Information Revolution."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "1"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13897",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "Alfalfa [is] a [deep-rooted] legume [*grows*] for forage and the [renewal] of exhausted fields."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "3"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13899",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "The platypus is a warm-blooded [*animal has*] a [duck like] mouth and a sharp [spike] on each of [its] rear legs."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "1"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "no": "13900",
+                      "point": "2",
+                      "skillType": "3",
+                      "type": "underLineChoice"
+                    },
+                    "title": [
+                      "Locating-Underline"
+                    ],
+                    "direction": [
+                      ""
+                    ],
+                    "questionText": [
+                      "William C. Morris, [*was known*] for his [contributions] to the compiling of the first Oxford English Dictionary, [served] as a doctor [during] the American Civil War."
+                    ],
+                    "description": [
+                      ""
+                    ],
+                    "answers": [
+                      {
+                        "answer": [
+                          "1"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
