@@ -7,10 +7,10 @@ function App() {
   return (
     <div>
       <Header />
-      <section id="about" className="py-5">
-        <div className="container">
-          <h2 className="text-center mb-4">About Me</h2>
-          <p className="text-center">
+      <section id="about" className="py-10">
+        <div className="max-w-4xl mx-auto text-center">
+          <h2 className="text-3xl font-bold mb-6">About Me</h2>
+          <p className="text-lg">
             Hello! I am a web developer with a passion for creating beautiful
             and functional websites.
           </p>
